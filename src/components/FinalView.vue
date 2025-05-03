@@ -1,7 +1,7 @@
 <template>
   <div class="contact-section">
     <h1 class="contact-title">Contact Me:</h1>
-    <h4 class="contact-subtitle">If You Want From Us To Work Together, You Can Contact Me With The Email:</h4>
+    <h4 class="contact-subtitle">If You Want From Us To Work Together, You Can Contact Me Using The Email:</h4>
     <h5 class="contact-email">mohamedsiddig5026485@gmail.com</h5>
 	<h4>Or:</h4>
     <div class="contact-methods">

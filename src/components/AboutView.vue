@@ -31,5 +31,6 @@ h4 {
   padding: 2rem;
   height: 80vh;
   font-family: Montserrat;
+  margin: 5px;
 }
 </style>
